@@ -1,6 +1,6 @@
 # CUDA_Ver_Switcher
 
-
+[![license](https://img.shields.io/github/license/george-chou/CUDA_Ver_Switcher.svg)](https://github.com/george-chou/CUDA_Ver_Switcher/blob/main/LICENSE)
 
 When multiple versions of CUDA co-exist in a Windows 10 environment, use this widget to quickly switch environment variables between different CUDA versions
 
